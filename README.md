@@ -4,7 +4,7 @@
   <h1>Walter Alexandre Santana</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Mr.</Body>;I'm+19+years+old;I'm+a+Software+Developer;I'am+from+Angola;I+Study+at+42+Luanda;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Mr.</Body>;I'm+19+years+old;I'm+a+Software+Developer;I'am+from+Angola;I+Study+at+42+Luanda;welcome)](https://git.io/typing-svg)
 
 
 <div align="center">
